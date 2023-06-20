@@ -24,33 +24,33 @@ function Contact() {
             <span className="type">Mobile: </span>
             <a
               className="value"
-              href="tel:+918096695836"
+              href="tel:+916301068413"
               target="_blank"
               rel="noreferrer"
             >
-              +91 8096695836
+              +91 6301068413
             </a>
           </div>
           <div className="contact">
             <span className="type">Email: </span>
             <a
               className="value"
-              href="mailto:aDivya@gmail.com"
+              href="mailto:jangadivyaj@gmail.com"
               target="_blank"
               rel="noreferrer"
             >
-              aDivya@gmail.com
+              jangadivyaj@gmail.com
             </a>
           </div>
           <div className="contact">
             <span className="type">LinkedIn: </span>
             <a
               className="value"
-              href="https://www.linkedin.com/in/Divya-Janga-1089/"
+              href="https://www.linkedin.com/in/divya-janga-823447226/"
               target="_blank"
               rel="noreferrer"
             >
-              Divya-Janga-1089
+              divya-janga-823447226
             </a>
           </div>
         </div>

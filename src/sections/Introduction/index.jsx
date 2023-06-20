@@ -4,7 +4,7 @@ import Button from "../../components/Button";
 function Introduction() {
   const onViewResume = () => {
     window.open(
-      "https://drive.google.com/file/d/14bK2RLwyFe8mh7ghWtBunInajGnZvWzd/view",
+      "https://drive.google.com/file/d/16BkJL7rCZ2lvYL05xx1n95DhS9tQJJ9F/view?usp=drive_link",
       "_blank"
     );
   };
@@ -16,16 +16,14 @@ function Introduction() {
         {"<>"} Front-End Developer {"</>"}
       </h2>
       <p className="description lazy-load">
-        An innovative software developer with 4 years of experience in building
-        scalable web applications and internal tools in a wide range of
-        industries.
+        Eagerly looking for an entry-level software developer position and contribute my computer science knowledge, and logical skills in designing and developing complex software applications.
         <br />
         <span className="cur-cmp">
-          Currently, I'm working at{" "}
+          {/* Currently, I'm working at{" "} */}
           <a href="https://campk12.com/" target="_blank" rel="noreferrer">
-            CampK12
+            {/* CampK12 */}
           </a>
-          .
+          
         </span>
       </p>
       <Button

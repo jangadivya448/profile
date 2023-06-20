@@ -1,59 +1,52 @@
-import campk12 from "./assets/pngs/campk12.png";
-import activeai from "./assets/pngs/activeai.png";
-import mountblue from "./assets/pngs/mountblue.png";
+import project from "./assets/pngs/project.png";
+// import activeai from "./assets/pngs/activeai.png";
+// import mountblue from "./assets/pngs/mountblue.png";
 
 export const ExperienceData = [
   {
-    name: "CampK12",
-    logo: campk12,
-    duration: "July 2021 - Present",
+    name: "QuickOut",
+    logo: project,
+    duration: "June 2022 - August 2022",
     skills: [
       "NextJS",
       "ReactJS",
-      "Redux",
-      "NodeJS",
       "JavaScript",
       "HTML",
       "CSS",
+      "MongoDB",
     ],
     desc: [
-      "Creating SEO optimized web pages.",
-      "Developing clean, smooth, and responsive UI.",
-      "Performing AB testing on the website.",
-      "Tracking and improving page speed of web pages.",
-      "Developing NextJS api routes.",
-      "Leading/guiding 4 front-end developers, attending sprint planning, and assigning tasks.",
-      "Taking care of Dev & Prod deployments.",
+      "Created a web application that helps students to apply for leaves and track them",
+      "Multi-level authority to approve the leaves and declare holidays",
+      
     ],
   },
   {
-    name: "Active.Ai",
-    logo: activeai,
-    duration: "Feb 2019 - July 2021",
+    name: "Pharmacy Management System",
+    logo: project,
+    duration: "Nov 2022 - Jan 2023",
     skills: [
-      "ReactJS",
-      "Redux",
-      "NodeJS",
-      "jQuery",
+      "Bootstrap",
+      "SQL",
       "JavaScript",
       "HTML",
       "CSS",
     ],
     desc: [
-      "Creating new chatbots UI from scratch, and developing new features & functionalities in chatbots.",
-      "Creating and developing new React components for the admin dashboard and fixing bugs.",
-      "Integrating and deploying chatbots on clients websites.",
-      "Developing internal Feedback site.",
+      "This web application deals with the maintenance with drugs and consumables in pharmacy unit",
+      "THe primary aim of the project is to improve accuracy and efficiency in pharmaceutical store by minimizing issues occur in day to day operations",
+      
     ],
   },
   {
-    name: "MountBlue Tech",
-    logo: mountblue,
-    duration: "Dec 2018 - Feb 2019",
-    skills: ["ReactJS", "NodeJS", "JavaScript", "jQuery", "HTML", "CSS"],
+    name: "Autism Spectrum Disorder Prediction",
+    logo: project,
+    duration: "Feb 2023 - Apr 2023",
+    skills: ["Python3","HTML", "CSS", "SQL Lite","Machine Learning algorithm"],
     desc: [
-      "Training on Front-End technologies.",
-      "Developing web apps using NodeJS, Express, ReactJS, MongoDB.",
+      "Autism is a neurological development and behavioral disorder impacting communication and social interacting skills",
+      "THe purpose of developing the autism spectrum disorder prediction is to recognize the disorder in children in an early stages",
+      "This project is developed as a desktop application",
     ],
   },
 ];

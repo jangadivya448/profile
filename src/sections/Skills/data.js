@@ -3,8 +3,9 @@ import reactjs from "../../assets/pngs/reactjs.png";
 import nextjs from "../../assets/pngs/nextjs.png";
 import html from "../../assets/pngs/html.png";
 import css from "../../assets/pngs/css.png";
-import redux from "../../assets/pngs/redux.png";
-import nodejs from "../../assets/pngs/nodejs.png";
+import python from "../../assets/pngs/python.png";
+import c from "../../assets/pngs/C.png";
+import java from "../../assets/pngs/Java.png";
 import mongodb from "../../assets/pngs/mongodb.png";
 
 const skillData = [
@@ -29,12 +30,16 @@ const skillData = [
     image: css,
   },
   {
-    name: "Redux",
-    image: redux,
+    name: "Python",
+    image: python,
   },
   {
-    name: "NodeJS",
-    image: nodejs,
+    name: "C",
+    image: c,
+  },
+  {
+    name: "Java",
+    image: java,
   },
   {
     name: "MongoDB",

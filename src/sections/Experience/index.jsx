@@ -22,7 +22,7 @@ function Experience() {
       className={`lazy-hide ${show ? "lazy-show" : ""}`}
       id="experience"
     >
-      <Header>Experience</Header>
+      <Header>Projects</Header>
       <ExpContent>
         {ExperienceData.map((exp, index1) => (
           <ExpCard key={"company-" + exp.name}>
