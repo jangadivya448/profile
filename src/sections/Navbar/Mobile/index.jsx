@@ -1,5 +1,5 @@
 import { FixedNavbar, LeftLogo } from "../Desktop/styles";
-import Vsvg from "../../../assets/svgs/v-svg";
+import Dsvg from "../../../assets/svgs/d-svg";
 import { RightBurgerMenu } from "./styles";
 import { useEffect, useState } from "react";
 import MobileSidebar from "./Sidebar";
@@ -27,7 +27,7 @@ function MobileNavbar({ activeCls, showLoaderAnimation }) {
     <FixedNavbar className={activeCls}>
       <LeftLogo>
         <button onClick={showLoaderAnimation} className="letter-v lazy-load">
-          <Vsvg />
+          <Dsvg />
         </button>
       </LeftLogo>
       <RightBurgerMenu

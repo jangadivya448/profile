@@ -1,5 +1,5 @@
 import { FixedNavbar, LeftLogo, RightLinks } from "./styles";
-import Vsvg from "../../../assets/svgs/v-svg";
+import Dsvg from "../../../assets/svgs/d-svg";
 
 function DesktopNavbar({ activeCls, showLoaderAnimation }) {
   // 0 --> show without shadow
@@ -9,7 +9,7 @@ function DesktopNavbar({ activeCls, showLoaderAnimation }) {
     <FixedNavbar className={activeCls}>
       <LeftLogo>
         <button onClick={showLoaderAnimation} className="letter-v lazy-load">
-          <Vsvg />
+          <Dsvg />
         </button>
       </LeftLogo>
       <RightLinks>

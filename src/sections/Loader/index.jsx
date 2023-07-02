@@ -1,13 +1,13 @@
 import { Loader } from "./styles";
-import Vsvg from "../../assets/svgs/d.jpg";
+import Dsvg from "../../assets/svgs/d-svg";
 
 function InitialLoader() {
   return (
     <Loader>
-      {/* <div className="img-wrap">
-        <img src="/logo512.png" alt="logo" className="loding-logo" />
-      </div> */}
-      <Vsvg />
+      {/* <div className="img-wrap"> */}
+      <Dsvg />
+      <b>Divya Janga</b>
+      {/* </div> */}
     </Loader>
   );
 }

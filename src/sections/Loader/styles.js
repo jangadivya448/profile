@@ -28,6 +28,7 @@ export const Loader = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
   .img-wrap {
     width: 8rem;
     height: 8rem;
