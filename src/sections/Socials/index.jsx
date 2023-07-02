@@ -17,7 +17,7 @@ export const MediaContent = ({ mobile }) => (
     <li>
       <a
         className="social-link"
-        href="https://www.linkedin.com/in/Divya-Janga-1089/"
+        href="https://www.linkedin.com/in/divya-janga-823447226/"
         target="_blank"
         rel="noreferrer"
       >
@@ -25,7 +25,7 @@ export const MediaContent = ({ mobile }) => (
       </a>
     </li>
     <li>
-      <a className="social-link" href="mailto:aDivya@gmail.com">
+      <a className="social-link" href="mailto:jagadivyaj@gmail.com">
         <EmailSvg />
       </a>
     </li>
