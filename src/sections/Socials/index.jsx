@@ -25,7 +25,7 @@ export const MediaContent = ({ mobile }) => (
       </a>
     </li>
     <li>
-      <a className="social-link" href="mailto:jagadivyaj@gmail.com">
+      <a className="social-link" href="mailto:jangadivyaj@gmail.com">
         <EmailSvg />
       </a>
     </li>
