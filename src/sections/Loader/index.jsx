@@ -1,5 +1,5 @@
 import { Loader } from "./styles";
-import Vsvg from "../../assets/svgs/v-svg";
+import Vsvg from "../../assets/svgs/d.jpg";
 
 function InitialLoader() {
   return (
