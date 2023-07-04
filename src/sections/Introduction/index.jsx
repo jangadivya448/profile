@@ -4,7 +4,7 @@ import Button from "../../components/Button";
 function Introduction() {
   const onViewResume = () => {
     window.open(
-      "https://drive.google.com/file/d/16BkJL7rCZ2lvYL05xx1n95DhS9tQJJ9F/view?usp=drive_link",
+      "https://drive.google.com/file/d/1Rkn2ZgVrOma580WR8JNXKU0PnI3itGns/view?usp=sharing",
       "_blank"
     );
   };
@@ -13,7 +13,7 @@ function Introduction() {
       <h3 className="my-name-is lazy-load">Hi, my name is</h3>
       <h1 className="name lazy-load">Divya Janga</h1>
       <h2 className="desg lazy-load">
-        {"<>"} Front-End Developer {"</>"}
+        {"<>"} Software Developer {"</>"}
       </h2>
       <p className="description lazy-load">
         Eagerly looking for an entry-level software developer position and contribute my computer science knowledge, and logical skills in designing and developing complex software applications.

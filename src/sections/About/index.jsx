@@ -2,7 +2,7 @@ import { useRef } from "react";
 import useOnIntersect from "../../hooks/intersection";
 import { Header } from "../Experience/styles";
 import { AboutMeCont, AboutCont } from "./styles";
-import me from "../../assets/pngs/Janga Divya.jpg";
+import me from "../../assets/pngs/DJ4.jpg";
 
 function AboutMe() {
   const aboutRef = useRef(null);
