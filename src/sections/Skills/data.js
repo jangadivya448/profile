@@ -5,7 +5,7 @@ import html from "../../assets/pngs/html.png";
 import css from "../../assets/pngs/css.png";
 import python from "../../assets/pngs/python.png";
 import c from "../../assets/pngs/C.png";
-import java from "../../assets/pngs/Java.png";
+import java from "../../assets/pngs/java.webp";
 import mongodb from "../../assets/pngs/mongodb.png";
 
 const skillData = [
