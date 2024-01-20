@@ -22,8 +22,8 @@ function AboutMe() {
         <div className="prf-det">
           <p>
             Hello, my name is <b>Divya Janga</b>, You can simply call me{" "}
-            <b>Divya</b>. I'm a 2023 passed out student. Aiming to be a <b>Front End developer</b>. I
-            like to build web apps using the <b>MERN</b> stack.
+            <b>Divya</b>. I'm a 2023 passed out student. I like to build web
+            apps using the <b>MERN</b> stack.
           </p>
           <p>
             I like to learn/try new technologies and implement them in daily

@@ -38,7 +38,7 @@ export const Links = ({ mobile = false, onClick }) => {
           className="anchor lazy-load"
           href="#experience"
         >
-          <span>02.</span> {mobile && <br />} Projects
+          <span>02.</span> {mobile && <br />} Experience
         </a>
       </li>
       <li>

@@ -1,11 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 
-import {
-  SkillSection,
-  SkillContent,
-  SkillGrid,
-  GridItem,
-} from "./styles";
+import { SkillSection, SkillContent, SkillGrid, GridItem } from "./styles";
 
 import skillData from "./data";
 

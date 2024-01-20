@@ -56,15 +56,7 @@ export const ExpCard = styled.div`
       height: 100%;
     }
   }
-  &:first-child {
-    img {
-      position: relative;
-      top: -0.08rem;
-      left: -0.2rem;
-      width: 100%;
-      height: 100%;
-    }
-  }
+
   &:hover {
     /* transform: translateY(-0.5rem); */
     border: 1px solid var(--white);

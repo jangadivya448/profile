@@ -3,6 +3,7 @@ import reactjs from "../../assets/pngs/reactjs.png";
 import nextjs from "../../assets/pngs/nextjs.png";
 import html from "../../assets/pngs/html.png";
 import css from "../../assets/pngs/css.png";
+import angularjs from "../../assets/pngs/angularjs.png";
 import python from "../../assets/pngs/python.png";
 import c from "../../assets/pngs/C.png";
 import java from "../../assets/pngs/java.webp";
@@ -28,6 +29,10 @@ const skillData = [
   {
     name: "CSS",
     image: css,
+  },
+  {
+    name: "AngularJS",
+    image: angularjs,
   },
   {
     name: "Python",
