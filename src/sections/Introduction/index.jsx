@@ -4,7 +4,7 @@ import Button from "../../components/Button";
 function Introduction() {
   const onViewResume = () => {
     window.open(
-      "https://drive.google.com/file/d/1BRSOx3gaRJ_X5lyhgX0jbU1ic8NdHnYH/view?usp=sharing",
+      "https://drive.google.com/file/d/10Nj3BHawsLTjOOjolbEdtPhtAIcmAptk/view?usp=sharing",
       "_blank",
     );
   };
@@ -16,8 +16,9 @@ function Introduction() {
         {"<>"} Junior Front-End Developer {"</>"}
       </h2>
       <p className="description lazy-load">
-        Junior Front-End Developer, with a good understanding of the front-end
-        eco-system, eagerly looking for good opportunities to learn and grow.
+        Front-End Developer, with a good understanding of ReactJS and the
+        front-end eco-system, eagerly looking for good opportunities to learn
+        and grow.
         <br />
         <span className="cur-cmp">
           Currently, I'm working at{" "}

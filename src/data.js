@@ -46,12 +46,12 @@ export const ExperienceData = [
     name: "Anuta Networks",
     logo: anuta,
     duration: "Dec 2023 -Present",
-    skills: ["AngularJS", "JavaScript", "HTML", "CSS", "SCSS"],
+    skills: ["ReactJS", "AngularJS", "JavaScript", "HTML", "CSS", "SCSS"],
     desc: [
-      "Developing small features in AngularJS in a product called ATOM.",
+      "Developing features in ReactJS in a product called ATOM.",
+      "Migrating Angular components to React.",
       "Fixing UI bugs.",
       "Track and update the JIRA tickets.",
-      "Attending scrum and grooming calls.",
     ],
   },
 ];
