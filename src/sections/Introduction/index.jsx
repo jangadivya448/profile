@@ -13,7 +13,7 @@ function Introduction() {
       <h3 className="my-name-is lazy-load">Hi, my name is</h3>
       <h1 className="name lazy-load">Divya Janga</h1>
       <h2 className="desg lazy-load">
-        {"<>"} Junior Front-End Developer {"</>"}
+        {"<>"}Front-End Developer {"</>"}
       </h2>
       <p className="description lazy-load">
         Front-End Developer, with a good understanding of ReactJS and the
