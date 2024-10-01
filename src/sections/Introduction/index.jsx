@@ -4,7 +4,7 @@ import Button from "../../components/Button";
 function Introduction() {
   const onViewResume = () => {
     window.open(
-      "https://drive.google.com/file/d/10Nj3BHawsLTjOOjolbEdtPhtAIcmAptk/view?usp=sharing",
+      "https://drive.google.com/file/d/1kvbIfv15rWkjU9bm9XAgwAf1p17m1j4D/view?usp=drive_link",
       "_blank",
     );
   };
@@ -21,7 +21,7 @@ function Introduction() {
         and grow.
         <br />
         <span className="cur-cmp">
-          Currently, I'm working at{" "}
+          Ex-Software Engineer at{" "}
           <a
             href="https://www.anutanetworks.com/"
             target="_blank"

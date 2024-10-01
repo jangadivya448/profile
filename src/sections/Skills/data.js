@@ -31,7 +31,7 @@ const skillData = [
     image: css,
   },
   {
-    name: "AngularJS",
+    name: "Angular",
     image: angularjs,
   },
   {
