@@ -13,31 +13,14 @@ export const ProjectData = [
     ],
   },
   {
-    name: "Pharmacy Management System",
+    name: "Form Builder",
     logo: project,
-    duration: "Nov 2022 - Jan 2023",
-    skills: ["Bootstrap", "SQL", "JavaScript", "HTML", "CSS"],
+    duration: "June 2024",
+    skills: ["ReactJS", "JavaScript", "HTML", "CSS", "Styled Components"],
     desc: [
-      "This web application deals with the maintenance with drugs and consumables in pharmacy unit",
-      "THe primary aim of the project is to improve accuracy and efficiency in pharmaceutical store by minimizing issues occur in day to day operations",
+      "Designed and developed automated workflows using Flow Builder to streamline business processes and reduce manual effort."
     ],
-  },
-  {
-    name: "Autism Spectrum Disorder Prediction",
-    logo: project,
-    duration: "Feb 2023 - Apr 2023",
-    skills: [
-      "Python3",
-      "HTML",
-      "CSS",
-      "SQL Lite",
-      "Machine Learning algorithm",
-    ],
-    desc: [
-      "Autism is a neurological development and behavioral disorder impacting communication and social interacting skills",
-      "THe purpose of developing the autism spectrum disorder prediction is to recognize the disorder in children in an early stages",
-      "This project is developed as a desktop application",
-    ],
+    
   },
 ];
 
