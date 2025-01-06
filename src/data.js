@@ -1,5 +1,6 @@
 import project from "./assets/pngs/project.png";
 import anuta from "./assets/pngs/anuta.webp";
+import apex from "./assets/pngs/apex.JPG";
 
 export const ProjectData = [
   {
@@ -25,6 +26,18 @@ export const ProjectData = [
 ];
 
 export const ExperienceData = [
+  {
+    name: "Apex Lawn Company",
+    logo: apex,
+    duration: "Nov 2024 - Present",
+    skills: ["ReactJS", "Next.JS", "JavaScript", "HTML", "CSS", "GTM", "SEO"],
+    desc: [
+      "Developing reusable React components.",
+      "Developing clean, interactive, responsive user interface screens.",
+      "Building an SEO-friendly website using Next.js.",
+      "Implementing Google Tags for analytics and tracking."
+    ],
+  },
   {
     name: "Anuta Networks",
     logo: anuta,
