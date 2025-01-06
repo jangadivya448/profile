@@ -4,7 +4,7 @@ import Button from "../../components/Button";
 function Introduction() {
   const onViewResume = () => {
     window.open(
-      "https://drive.google.com/file/d/1ypVFSQUYkLJ7_cqcpQynbUuD9gcd1ZIj/view?usp=drive_link",
+      "https://drive.google.com/file/d/11rowsgFiu_7QKWMGTFOS7SWSwx5gvKOR/view?usp=drive_link",
       "_blank",
     );
   };
@@ -20,6 +20,16 @@ function Introduction() {
         front-end eco-system, eagerly looking for good opportunities to learn
         and grow.
         <br />
+        <span className="cur-cmp">
+          Software Engineer at{" "}
+          <a
+            href="https://www.apexlawncompany.com/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Apex Lawn Company
+          </a>
+        </span>
         <span className="cur-cmp">
           Ex-Software Engineer at{" "}
           <a
