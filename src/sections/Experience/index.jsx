@@ -55,6 +55,16 @@ function Experience() {
                 {exp.desc?.map((des, index2) => (
                   <li key={"li-" + index1 + index2}>{des}</li>
                 ))}
+                {exp.keyProjects && exp.keyProjects.length > 0 && (
+                  <ul>
+                    <b>Key Projects:</b>
+                    {exp.keyProjects.map((url, idx) => (
+                      <li key={"kp-" + index1 + idx}>
+                        <a href={url} target="_blank" rel="noopener noreferrer">{url}</a>
+                      </li>
+                    ))}
+                  </ul>
+                )}
               </Description>
             </ExpCard>
           ))}

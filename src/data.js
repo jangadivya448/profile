@@ -32,10 +32,16 @@ export const ExperienceData = [
     duration: "Nov 2024 - Present",
     skills: ["ReactJS", "Next.JS", "JavaScript", "HTML", "CSS", "GTM", "SEO"],
     desc: [
-      "Developing reusable React components.",
-      "Developing clean, interactive, responsive user interface screens.",
-      "Building an SEO-friendly website using Next.js.",
-      "Implementing Google Tags for analytics and tracking."
+      "Designed and developed multiple websites in React.js under the company’s portfolio, ensuring scalability, performance, and maintainability.",
+      "Delivered clean, interactive, and responsive user interfaces, improving user engagement and accessibility across devices.",
+      "Built SEO-friendly websites with Next.js, enhancing search engine visibility and driving organic traffic.",
+      "Implemented Google Tag Manager and analytics integrations.",
+      "Managed and integrated Google Ads campaigns."
+    ],
+    keyProjects: [
+      "https://apexlawncompany.com",
+      "https://apexship.net",
+      "https://prana.healthcare"
     ],
   },
   {
