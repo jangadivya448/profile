@@ -66,7 +66,7 @@ export const ExpCard = styled.div`
       background-color: var(--skill-navy);
     }
   }
-  @media only screen and (max-width: 530px)  {
+  @media only screen and (max-width: 530px) {
     flex-direction: column;
     padding: 2rem 1.5rem 1.5rem;
   }
@@ -124,4 +124,12 @@ export const Description = styled.ul`
   li {
     margin: 0.1rem 0;
   }
+    ul{
+    li{
+    margin-left: 1.5rem;
+    }
+    li a { 
+    color: var(--green);
+    }
+}
 `;
