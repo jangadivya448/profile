@@ -5,8 +5,9 @@ import html from "../../assets/pngs/html.png";
 import css from "../../assets/pngs/css.png";
 import angularjs from "../../assets/pngs/angularjs.png";
 import python from "../../assets/pngs/python.png";
-import c from "../../assets/pngs/C.png";
-import java from "../../assets/pngs/java.webp";
+import devices from "../../assets/pngs/devices.png";
+import api from "../../assets/pngs/api.png";
+import github from "../../assets/pngs/social.png";
 import mongodb from "../../assets/pngs/mongodb.png";
 
 const skillData = [
@@ -39,16 +40,20 @@ const skillData = [
     image: python,
   },
   {
-    name: "C",
-    image: c,
+    name: "Responsive Design",
+    image: devices,
   },
   {
-    name: "Java",
-    image: java,
+    name: "REST API",
+    image: api,
   },
   {
     name: "MongoDB",
     image: mongodb,
+  },
+  {
+    name: "Github",
+    image: github,
   },
 ];
 

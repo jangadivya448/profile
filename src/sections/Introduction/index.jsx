@@ -4,7 +4,7 @@ import Button from "../../components/Button";
 function Introduction() {
   const onViewResume = () => {
     window.open(
-      "https://drive.google.com/file/d/1mKyG-v6s5hy9DV6mFQ560jZJhl6XMYkR/view?usp=sharing",
+      "https://drive.google.com/file/d/1Dyo0IUoe5iJn_Io56fxAyBu85L32t_Lr/view?usp=sharing",
       "_blank",
     );
   };
@@ -16,9 +16,11 @@ function Introduction() {
         {"<>"}Front-End Developer {"</>"}
       </h2>
       <p className="description lazy-load">
-        Front-End Developer, with a good understanding of ReactJS and the
-        front-end eco-system, eagerly looking for good opportunities to learn
-        and grow.
+        Detail-oriented Frontend Developer with 2+ years of experience
+        designing responsive web applications using JavaScript, React, and
+        modern UI frameworks. Skilled in building reusable components,
+        integrating REST APIs, optimizing performance, and collaborating with
+        cross-functional teams.
         <br />
         <span className="cur-cmp">
           Software Engineer at{" "}

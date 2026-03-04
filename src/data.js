@@ -19,9 +19,8 @@ export const ProjectData = [
     duration: "June 2024",
     skills: ["ReactJS", "JavaScript", "HTML", "CSS", "Styled Components"],
     desc: [
-      "Designed and developed automated workflows using Flow Builder to streamline business processes and reduce manual effort."
+      "Designed and developed automated workflows using Flow Builder to streamline business processes and reduce manual effort.",
     ],
-    
   },
 ];
 
@@ -30,18 +29,18 @@ export const ExperienceData = [
     name: "Apex Lawn Company",
     logo: apex,
     duration: "Nov 2024 - Present",
-    skills: ["ReactJS", "Next.JS", "JavaScript", "HTML", "CSS", "GTM", "SEO"],
+    skills: ["React.js", "Next.js", "JavaScript", "HTML", "CSS", "GTM", "SEO", "REST API"],
     desc: [
-      "Designed and developed multiple websites in React.js under the company’s portfolio, ensuring scalability, performance, and maintainability.",
-      "Delivered clean, interactive, and responsive user interfaces, improving user engagement and accessibility across devices.",
-      "Built SEO-friendly websites with Next.js, enhancing search engine visibility and driving organic traffic.",
-      "Implemented Google Tag Manager and analytics integrations.",
-      "Managed and integrated Google Ads campaigns."
+      "Developed responsive, high-performance web applications using React.js and Next.js, building reusable and modular UI components to improve maintainability and development efficiency.",
+      "Integrated REST APIs to handle dynamic data and enable seamless frontend–backend communication.",
+      "Implemented responsive layouts to ensure a consistent user experience across desktop, tablet, and mobile devices.",
+      "Debugged application issues, optimized performance, and managed deployments on Vercel.",
+      "Implemented Google Tag Manager, Google Analytics, and Google Ads integrations to support marketing insights and user tracking.",
     ],
     keyProjects: [
       "https://apexlawncompany.com",
       "https://apexship.net",
-      "https://prana.healthcare"
+      "https://prana.healthcare",
     ],
   },
   {

@@ -21,15 +21,21 @@ function AboutMe() {
         </div>
         <div className="prf-det">
           <p>
-            Hello, my name is <b>Divya Janga</b>, You can simply call me{" "}
-            <b>Divya</b>. I'm a 2023 passed out student. I like to build web
-            apps using the <b>MERN</b> stack.
+            Hello, my name is <b>Divya Janga</b>. I am a 2023 graduate and a
+            passionate web developer who enjoys building web applications using
+            the <b>MERN</b> stack.
           </p>
+
           <p>
-            I like to learn/try new technologies and implement them in daily
-            work. I like to take responsibility for my work.
+            I enjoy learning new technologies and applying them in my work. I
+            take responsibility for my tasks and always strive to improve my
+            skills.
           </p>
-          <p>I like photography, listen to Music, watching Movies.</p>
+
+          <p>
+            Apart from coding, I enjoy photography, listening to music, and
+            watching movies.
+          </p>
         </div>
       </AboutCont>
     </AboutMeCont>
