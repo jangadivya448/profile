@@ -4,7 +4,7 @@ import Button from "../../components/Button";
 function Introduction() {
   const onViewResume = () => {
     window.open(
-      "https://drive.google.com/file/d/1Dyo0IUoe5iJn_Io56fxAyBu85L32t_Lr/view?usp=sharing",
+      "https://drive.google.com/file/d/1QvyeQWXNL3Z8iv68bosuv_7yPosJiddG/view?usp=sharing",
       "_blank",
     );
   };
