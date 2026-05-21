@@ -28,7 +28,7 @@ export const ExperienceData = [
   {
     name: "Apex Lawn Company",
     logo: apex,
-    duration: "Nov 2024 - Present",
+    duration: "Nov 2024 - Apr 2026",
     skills: [
       "React.js",
       "Next.js",

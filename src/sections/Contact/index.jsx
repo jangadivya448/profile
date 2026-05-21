@@ -35,7 +35,7 @@ function Contact() {
             <span className="type">Email: </span>
             <a
               className="value"
-              href="mailto:jangadivyaj@gmail.com"
+              href="mailto:jangadivya413@gmail.com"
               target="_blank"
               rel="noreferrer"
             >
