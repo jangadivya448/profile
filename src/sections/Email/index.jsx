@@ -4,7 +4,7 @@ function VerticalEmail() {
   return (
     <Vertical className="lazy-load">
       <a href="mailto:jangadivya413@gmail.com" className="email-href">
-        jangadivyaj@gmail.com
+        jangadivya413@gmail.com
       </a>
       <div className="bar"></div>
     </Vertical>

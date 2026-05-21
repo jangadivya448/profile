@@ -39,7 +39,7 @@ function Contact() {
               target="_blank"
               rel="noreferrer"
             >
-              jangadivyaj@gmail.com
+              jangadivya413@gmail.com
             </a>
           </div>
           <div className="contact">
