@@ -4,7 +4,7 @@ import Button from "../../components/Button";
 function Introduction() {
   const onViewResume = () => {
     window.open(
-      "https://drive.google.com/file/d/17mm1V2T54N8_l9rynOlTTOGB0qiKs_vE/view?usp=sharing",
+      "https://drive.google.com/file/d/1B3WTYSgAm6ZJoPbMLdFapoPln3BGL0Ba/view?usp=sharing",
       "_blank",
     );
   };
@@ -16,7 +16,7 @@ function Introduction() {
         {"<>"}Front-End Developer {"</>"}
       </h2>
       <p className="description lazy-load">
-        Detail-oriented Frontend Developer with 2+ years of experience
+        Detail-oriented Frontend Developer with around 2.5 years of experience
         designing responsive web applications using JavaScript, React, and
         modern UI frameworks. Skilled in building reusable components,
         integrating REST APIs, optimizing performance, and collaborating with
