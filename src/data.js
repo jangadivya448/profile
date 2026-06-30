@@ -28,7 +28,7 @@ export const ExperienceData = [
   {
     name: "Apex Lawn Company",
     logo: apex,
-    duration: "Nov 2024 - Present",
+    duration: "Nov 2024 - Jun 2026",
     skills: [
       "React.js",
       "Next.js",
@@ -38,6 +38,7 @@ export const ExperienceData = [
       "GTM",
       "SEO",
       "REST API",
+      "MongoDb",
     ],
     desc: [
       "Developed responsive, high-performance web applications using React.js and Next.js, building reusable and modular UI components that improved maintainability and accelerated development efficiency.",

@@ -109,7 +109,7 @@ export const GridItem = styled.div`
       }
     }
   }
-  &.grid-item-5 {
+  &:nth-child(7n + 5) {
     grid-column: 2 / span 2;
   }
   @media only screen and (max-width: 1050px) {
@@ -119,11 +119,25 @@ export const GridItem = styled.div`
     }
   }
   @media only screen and (max-width: 800px) {
-    &.grid-item-4 {
+    &:nth-child(7n + 5) {
+      grid-column: unset;
+    }
+    /* Row of 3 (full row, cols 1-6) */
+    &:nth-child(5n + 1) {
+      grid-column: 1 / span 2;
+    }
+    &:nth-child(5n + 2) {
+      grid-column: 3 / span 2;
+    }
+    &:nth-child(5n + 3) {
+      grid-column: 5 / span 2;
+    }
+    /* Row of 2 (offset, centered, cols 2-5) */
+    &:nth-child(5n + 4) {
       grid-column: 2 / span 2;
     }
-    &.grid-item-5 {
-      grid-column: span 2;
+    &:nth-child(5n + 5) {
+      grid-column: 4 / span 2;
     }
     .item-wrpper {
       .skill-img {

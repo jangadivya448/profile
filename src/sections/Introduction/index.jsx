@@ -4,7 +4,7 @@ import Button from "../../components/Button";
 function Introduction() {
   const onViewResume = () => {
     window.open(
-      "https://drive.google.com/file/d/1B3WTYSgAm6ZJoPbMLdFapoPln3BGL0Ba/view?usp=sharing",
+      "https://drive.google.com/file/d/1hAxryFf6xu1mm9ymlYijxqVpuxxGZ7A8/view?usp=sharing",
       "_blank",
     );
   };
@@ -16,11 +16,11 @@ function Introduction() {
         {"<>"}Front-End Developer {"</>"}
       </h2>
       <p className="description lazy-load">
-        Detail-oriented Frontend Developer with around 2.5 years of experience
-        designing responsive web applications using JavaScript, React, and
-        modern UI frameworks. Skilled in building reusable components,
-        integrating REST APIs, optimizing performance, and collaborating with
-        cross-functional teams.
+        Frontend Developer with around 2.5 years of hands-on experience in React, JS, and modern UI frameworks, specializing in responsive web applications, reusable components, REST API integration, and
+        performance optimization. Experienced in implementing SEO best practices - including Core Web
+        Vitals optimization - to improve search visibility and site performance. Currently expanding into the
+        MERN stack with Node.js, Express.js, and MongoDB to grow toward full-stack development.
+
         <br />
         <span className="cur-cmp">
           Software Engineer at{" "}
@@ -33,7 +33,7 @@ function Introduction() {
           </a>
         </span>
         <span className="cur-cmp">
-          Ex-Software Engineer at{" "}
+          Ex-Software Developer at{" "}
           <a
             href="https://www.anutanetworks.com/"
             target="_blank"

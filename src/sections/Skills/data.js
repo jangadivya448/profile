@@ -9,6 +9,11 @@ import devices from "../../assets/pngs/devices.png";
 import api from "../../assets/pngs/api.png";
 import github from "../../assets/pngs/social.png";
 import mongodb from "../../assets/pngs/mongodb.png";
+import node from "../../assets/pngs/nodejs.png";
+import SEO from "../../assets/pngs/seo.png";
+import gtm from "../../assets/pngs/tag.png";
+import gAds from "../../assets/pngs/adwords.png";
+
 
 const skillData = [
   {
@@ -52,8 +57,24 @@ const skillData = [
     image: mongodb,
   },
   {
+    name: "Node JS",
+    image: node,
+  },
+  {
     name: "Github",
     image: github,
+  },
+    {
+    name: "SEO",
+    image: SEO,
+  },
+    {
+    name: "Google Ads",
+    image: gAds,
+  },
+    {
+    name: "GTM",
+    image: gtm,
   },
 ];
 
