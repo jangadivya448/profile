@@ -21,19 +21,30 @@ function AboutMe() {
         </div>
         <div className="prf-det">
           <p>
-            Hello, my name is <b>Divya Janga</b>. I am a 2023 graduate and a
-            passionate web developer who enjoys building web applications using
-            the <b>MERN</b> stack.
+            I don't just build websites — I build digital experiences designed
+            to be discovered, engaged with, and converted.
           </p>
 
           <p>
-            I enjoy learning new technologies and applying them in my work. I
-            take responsibility for my tasks and always strive to improve my
-            skills.
+            Hi, I'm <b>Divya Janga</b>, a 2023 Computer Science Engineering
+            graduate. I enjoy building responsive, user-friendly web
+            applications.
           </p>
 
           <p>
-            Apart from coding, I enjoy photography, listening to music, and
+            Alongside development, I've developed a strong interest in
+            <b> Performance Marketing</b>, particularly{" "}
+            <b>SEO, Google Ads, Meta Ads, GA4</b>, and <b>Google Tag Manager</b>
+          </p>
+
+          <p>
+            I'm a curious learner who enjoys solving problems, exploring new
+            technologies, and continuously improving through every project I
+            work on.
+          </p>
+
+          <p>
+            Outside of work, I enjoy photography, listening to music, and
             watching movies.
           </p>
         </div>

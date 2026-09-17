@@ -4,7 +4,7 @@ import Button from "../../components/Button";
 function Introduction() {
   const onViewResume = () => {
     window.open(
-      "https://drive.google.com/file/d/1hAxryFf6xu1mm9ymlYijxqVpuxxGZ7A8/view?usp=sharing",
+      "https://drive.google.com/file/d/1FK_bVbTaiy1xkChyhb4rMG1pwufkZZBc/view?usp=sharing",
       "_blank",
     );
   };
@@ -13,17 +13,18 @@ function Introduction() {
       <h3 className="my-name-is lazy-load">Hi, my name is</h3>
       <h1 className="name lazy-load">Divya Janga</h1>
       <h2 className="desg lazy-load">
-        {"<>"}Front-End Developer {"</>"}
+        {"<>"}Developer | SEO Analyst {"</>"}
       </h2>
       <p className="description lazy-load">
-        Frontend Developer with around 2.5 years of hands-on experience in React, JS, and modern UI frameworks, specializing in responsive web applications, reusable components, REST API integration, and
-        performance optimization. Experienced in implementing SEO best practices - including Core Web
-        Vitals optimization - to improve search visibility and site performance. Currently expanding into the
-        MERN stack with Node.js, Express.js, and MongoDB to grow toward full-stack development.
-
+        Performance Marketing-focused professional with 2.5 years of frontend
+        experience, including 1.7 years in Software Development and SEO. Skilled
+        in GA4, GTM, Google Ads, Meta Ads, technical SEO, Core Web Vitals,
+        landing-page optimization, and conversion tracking. Leverage my React
+        and JavaScript background to connect campaigns, user behavior, and
+        conversions for data-driven growth.
         <br />
         <span className="cur-cmp">
-          Software Engineer at{" "}
+          Software Engineer | SEO Analyst at{" "}
           <a
             href="https://www.apexlawncompany.com/"
             target="_blank"

@@ -4,15 +4,16 @@ import nextjs from "../../assets/pngs/nextjs.png";
 import html from "../../assets/pngs/html.png";
 import css from "../../assets/pngs/css.png";
 import angularjs from "../../assets/pngs/angularjs.png";
-import python from "../../assets/pngs/python.png";
+// import python from "../../assets/pngs/python.png";
 import devices from "../../assets/pngs/devices.png";
 import api from "../../assets/pngs/api.png";
 import github from "../../assets/pngs/social.png";
 import mongodb from "../../assets/pngs/mongodb.png";
-import node from "../../assets/pngs/nodejs.png";
+// import node from "../../assets/pngs/nodejs.png";
 import SEO from "../../assets/pngs/seo.png";
 import gtm from "../../assets/pngs/tag.png";
 import gAds from "../../assets/pngs/adwords.png";
+import mAds from "../../assets/pngs/loop.png";
 
 
 const skillData = [
@@ -41,10 +42,6 @@ const skillData = [
     image: angularjs,
   },
   {
-    name: "Python",
-    image: python,
-  },
-  {
     name: "Responsive Design",
     image: devices,
   },
@@ -55,10 +52,6 @@ const skillData = [
   {
     name: "MongoDB",
     image: mongodb,
-  },
-  {
-    name: "Node JS",
-    image: node,
   },
   {
     name: "Github",
@@ -75,6 +68,10 @@ const skillData = [
     {
     name: "GTM",
     image: gtm,
+  },
+  {
+    name: "Meta Ads",
+    image: mAds,
   },
 ];
 

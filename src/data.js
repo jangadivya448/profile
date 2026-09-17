@@ -37,8 +37,10 @@ export const ExperienceData = [
       "CSS",
       "GTM",
       "SEO",
-      "REST API",
-      "MongoDb",
+      "Google Ads",
+      "Meta Ads", 
+      "GA4",
+      "Conversion Tracking"
     ],
     desc: [
       "Developed responsive, high-performance web applications using React.js and Next.js, building reusable and modular UI components that improved maintainability and accelerated development efficiency.",
